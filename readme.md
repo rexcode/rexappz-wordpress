@@ -1,7 +1,6 @@
- Rexappz.com
- ===========
+ **Rexappz.com**
 
-It is made using **Wordpress**.
+It is made using *Wordpress*.
 
 It uses a variety of plugins -
 
